@@ -29,3 +29,4 @@ I will commit updates regularly to track progress and document what I learn each
 
 ---
 If you have suggestions for simple but useful JavaScript features to add, feel free to open an issue.
+<img width="1920" height="955" alt="Screenshot_476" src="https://github.com/user-attachments/assets/3dca985d-e808-4dfe-984a-ff547a12a8d9" />
